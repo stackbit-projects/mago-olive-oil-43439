@@ -2,7 +2,7 @@
     "title": "Mago",
     "path_prefix": "/",
     "base_font": "nunito-sans",
-    "palette": "purple",
+    "palette": "green",
     "header": {
         "logo_img": "images/Logo.png",
         "logo_img_alt": "Logo",
